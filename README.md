@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2509DC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Raul+Klahold;Tenho+25+anos;Sou+Brasileiro;Estou+Cursando+ADS;Seja+Bem+vindo+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raulklahold&bg_color=0D0C174&color=3A20E3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raulklahold&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
