@@ -14,7 +14,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulklahold&layout=compact&hide_border=true&title_color=322294&text_color=3721C4&bg_color=0B0A0E" />
 </div>
 
-- 🌱 Estou estudando Front-End  HTML | CSS | JavaScript
+- 🌱 Full-Stack Developer.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
