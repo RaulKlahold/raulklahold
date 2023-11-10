@@ -32,8 +32,8 @@ Neste perfil, você encontrará uma variedade de projetos e contribuições que 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raulklahold&show_icons=true&count_private=true&hide_border=true&title_color=3924C0&icon_color=4C38D0&text_color=5D51AD&bg_color=0A090A" alt="Raul Klahold github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulklahold&layout=compact&hide_border=true&title_color=322294&text_color=3721C4&bg_color=0B0A0E" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raulklahold&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=0000FF&bg_color=000000" alt="Raul Klahold github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulklahold&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=000000" />
 </div>
 
 
