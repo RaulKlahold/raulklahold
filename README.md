@@ -6,9 +6,7 @@
  
  ## Sou o Raul Klahold
    Sou um apaixonado por tecnologia e games. Minha jornada na programação começou quando me encantei com a complexidade e o potencial de transformação que a tecnologia oferece. Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas (ADS) e estou focando meu aprendizado no desenvolvimento backend, com ênfase na linguagem Java e outras tecnologias relacionadas.
-Sempre estou em busca de novos desafios e oportunidades para aprender e crescer. Acredito que a tecnologia está em constante evolução, e estou determinado a acompanhar esse ritmo, mantendo-me atualizado com as últimas tendências e práticas.
-Meu futuro na área de cibersegurança é uma das minhas maiores ambições. Acredito que a segurança da informação é fundamental em um mundo cada vez mais digital, e estou ansioso para contribuir para a proteção e a integridade dos sistemas de dados.
-Neste perfil, você encontrará uma variedade de projetos e contribuições que refletem minha paixão pela tecnologia e meu compromisso com a programação.
+Sempre estou em busca de novos desafios e oportunidades para aprender e crescer. Acredito que a tecnologia está em constante evolução, e estou determinado a acompanhar esse ritmo, mantendo-me atualizado com as últimas tendências e práticas. Neste perfil, você encontrará uma variedade de projetos e contribuições que refletem minha paixão pela tecnologia e meu compromisso com a programação.
 
 
 ## Formação Academica:
