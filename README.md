@@ -30,7 +30,7 @@ Sempre estou em busca de novos desafios e oportunidades para aprender e crescer.
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raulklahold&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=0000FF&bg_color=000000" alt="Raul Klahold github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raulklahold&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=0000FF&bg_color=000000" alt="Raul Klahold github" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulklahold&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=000000" />
 </div>
 
