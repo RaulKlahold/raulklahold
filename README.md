@@ -47,6 +47,9 @@ Sempre estou em busca de novos desafios e oportunidades para aprender e crescer.
 <img align="center" alt="Raul-java" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" alt="Raul-Maven" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 <img align="center" alt="Raul-SpringBoot" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="center" alt="Raul-PostGres" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+
  </div>
 
   
