@@ -23,15 +23,11 @@ Sempre estou em busca de novos desafios e oportunidades para aprender e crescer.
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raulklahold&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raulklahold&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=0000FF&bg_color=000000" alt="Raul Klahold github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulklahold&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=000000" />
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raulklahold&theme=tokyonight" alt="Raul Klahold github stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raulklahold&theme=tokyonight" alt="Linguagens mais usadas" />
+  <br/>
+  <img width="98%" src="https://streak-stats.demolab.com/?user=raulklahold&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 
