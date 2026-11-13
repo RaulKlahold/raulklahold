@@ -23,12 +23,24 @@ Sempre estou em busca de novos desafios e oportunidades para aprender e crescer.
 
 
 
+<p align="center">
+  <img width="98%" src="https://github-trophies.vercel.app/?username=raulklahold&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="Troféus do GitHub" />
+</p>
+
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raulklahold&theme=tokyonight" alt="Raul Klahold github stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raulklahold&theme=tokyonight" alt="Linguagens mais usadas" />
   <br/>
   <img width="98%" src="https://streak-stats.demolab.com/?user=raulklahold&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaulKlahold/raulklahold/output/github-snake-dark.svg" />
+    <img width="98%" alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/RaulKlahold/raulklahold/output/github-snake.svg" />
+  </picture>
+</p>
+
 
 
 ## 🛠 Tecnologias:
